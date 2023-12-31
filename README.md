@@ -8,5 +8,4 @@ Otro punto a favor de DisProg™ es su regulador de voltaje integrado de 3.3V y 
 
 Para obtener más detalles sobre este proyecto, te invito a consultar la entrada correspondiente en https://disgran.com/disprog.
 
-![DisProg™ basado en chip CP2102N](DisProg.png)
-
+<img width="400" alt="Preview_PCB_Terminada" src="DisProg.png">
