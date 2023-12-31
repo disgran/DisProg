@@ -7,3 +7,6 @@ DisProg™ representa una placa de adaptador USB a serie que se fundamenta en el
 Otro punto a favor de DisProg™ es su regulador de voltaje integrado de 3.3V y 500mA, capaz de alimentar el dispositivo que estás programando. Como opción adicional, puedes conectar un cable JST personalizado que facilita la programación segura de relés Shelly sin depender de la alimentación principal. Esto sitúa a DisProg™ como uno de los mejores adaptadores USB/serie para cargar el firmware de tus dispositivos con Tasmota o ESPHome.
 
 Para obtener más detalles sobre este proyecto, te invito a consultar la entrada correspondiente en https://disgran.com/disprog.
+
+![DisProg™ basado en chip CP2102N](DisProg.png)
+
